@@ -1,0 +1,112 @@
+[
+  {
+    "formula": "X recorded the highest / lowest figure among all categories",
+    "note": "Коли треба виділити одне значення серед багатьох рядків таблиці.",
+    "example": "Norway recorded the highest figure among all the countries listed, at 98%.",
+    "exercises": [
+      {
+        "practice": "Looking at the table, Norway had the best score of all the countries, 98%.",
+        "answer": "Norway recorded the highest figure among all the countries listed, at 98%.",
+        "answerNote": "\"had the best score of all\" → академічне <b>recorded the highest figure among</b>."
+      },
+      {
+        "practice": "Sweden had the best recycling rate in the table, 68%, and Poland had the worst, 22%.",
+        "answer": "Sweden recorded the highest figure among all the countries listed, at 68%, while Poland recorded the lowest, at 22%.",
+        "answerNote": "Одне речення описує і найвище, і найнижче значення відразу."
+      },
+      {
+        "practice": "Looking at the table, Product A sold the most units and Product D sold the fewest.",
+        "answer": "Product A recorded the highest figure among all the products listed, while Product D recorded the lowest.",
+        "answerNote": "Формула працює для товарів так само, як і для країн."
+      }
+    ]
+  },
+  {
+    "formula": "There was considerable variation between X and Y",
+    "note": "Загальна фраза, коли рядки таблиці сильно відрізняються.",
+    "example": "There was considerable variation between the regions in terms of average income.",
+    "exercises": [
+      {
+        "practice": "The regions in the table had very different average incomes.",
+        "answer": "There was considerable variation between the regions in terms of average income.",
+        "answerNote": "\"had very different\" → <b>there was considerable variation between... in terms of</b>."
+      },
+      {
+        "practice": "The table shows that exam results were quite different between the five schools.",
+        "answer": "There was considerable variation between the five schools in terms of exam results.",
+        "answerNote": "\"the table shows that... were quite different\" — прибрали зайве, лишили головну структуру."
+      },
+      {
+        "practice": "Customer satisfaction scores were quite different across the branches in the table.",
+        "answer": "There was considerable variation between the branches in terms of customer satisfaction scores.",
+        "answerNote": "\"quite different across\" → \"considerable variation between\"."
+      }
+    ]
+  },
+  {
+    "formula": "X was consistently higher than Y across all years",
+    "note": "Коли одна колонка таблиці ЩОРАЗУ більша за іншу.",
+    "example": "Urban population was consistently higher than rural population across all the years shown.",
+    "exercises": [
+      {
+        "practice": "In every year in the table, city population numbers were bigger than countryside numbers.",
+        "answer": "Urban population was consistently higher than rural population across all the years shown.",
+        "answerNote": "\"in every year... were bigger than\" → <b>consistently higher than... across all years</b>."
+      },
+      {
+        "practice": "In every year shown, sales in the north were bigger than sales in the south.",
+        "answer": "Sales in the north were consistently higher than sales in the south across all the years shown.",
+        "answerNote": "Та сама структура: \"consistently... across all years\" замінює \"in every year\"."
+      },
+      {
+        "practice": "Every year in the table, the cost of petrol was higher than the cost of diesel.",
+        "answer": "The cost of petrol was consistently higher than the cost of diesel across all the years shown.",
+        "answerNote": "Формула ідеальна саме для таблиць із кількома роками поспіль."
+      }
+    ]
+  },
+  {
+    "formula": "The data reveals a stark contrast between X and Y",
+    "note": "Хороша фраза для вступу перед аналізом таблиці.",
+    "example": "The data reveals a stark contrast between spending levels in 2000 and 2020.",
+    "exercises": [
+      {
+        "practice": "Looking at the numbers, spending in 2000 was very different from spending in 2020.",
+        "answer": "The data reveals a stark contrast between spending levels in 2000 and 2020.",
+        "answerNote": "\"looking at the numbers... very different from\" → <b>the data reveals a stark contrast between</b>."
+      },
+      {
+        "practice": "Comparing the numbers, unemployment in 1990 was very different from unemployment in 2020.",
+        "answer": "The data reveals a stark contrast between unemployment levels in 1990 and 2020.",
+        "answerNote": "Та сама формула, інші роки й тема."
+      },
+      {
+        "practice": "The figures show a big difference between test scores in Group A and Group B.",
+        "answer": "The data reveals a stark contrast between test scores in Group A and Group B.",
+        "answerNote": "\"the figures show a big difference\" → \"the data reveals a stark contrast\"."
+      }
+    ]
+  },
+  {
+    "formula": "Overall, X outperformed Y in every category except [Z]",
+    "note": "Коли один рядок таблиці кращий за інший майже скрізь, крім одного винятку.",
+    "example": "Overall, Country A outperformed Country B in every category except literacy rate.",
+    "exercises": [
+      {
+        "practice": "Looking at the whole table, Japan did better than Italy in almost everything apart from tourism numbers.",
+        "answer": "Overall, Japan outperformed Italy in every category except tourism numbers.",
+        "answerNote": "\"did better than... apart from\" → <b>outperformed... except</b> — коротше й точніше."
+      },
+      {
+        "practice": "In general, Team A did better than Team B in every statistic apart from assists.",
+        "answer": "Overall, Team A outperformed Team B in every category except assists.",
+        "answerNote": "\"in general\" → \"overall\" — стандартний вступ до підсумкового речення."
+      },
+      {
+        "practice": "Generally, the new model was better than the old model in every test except battery life.",
+        "answer": "Overall, the new model outperformed the old model in every category except battery life.",
+        "answerNote": "Формула працює і для порівняння продуктів, не лише країн чи команд."
+      }
+    ]
+  }
+]

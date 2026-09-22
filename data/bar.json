@@ -1,0 +1,112 @@
+[
+  {
+    "formula": "The largest / smallest figure was recorded for X",
+    "note": "Класична фраза для найвищого чи найнижчого стовпчика.",
+    "example": "The largest figure was recorded for Brazil, at 3.4 million tonnes.",
+    "exercises": [
+      {
+        "practice": "Brazil exported the most, 3.4 million tonnes, while Chile exported the least, only 0.2 million.",
+        "answer": "The largest figure was recorded for Brazil, at 3.4 million tonnes, while the smallest was recorded for Chile, at just 0.2 million.",
+        "answerNote": "Одна структура одразу описує і найбільший, і найменший стовпчик."
+      },
+      {
+        "practice": "Germany had the highest number of visitors, 12 million, while Portugal had the lowest, 1.5 million.",
+        "answer": "The largest figure was recorded for Germany, at 12 million visitors, while the smallest was recorded for Portugal, at 1.5 million.",
+        "answerNote": "\"had the highest/lowest number\" → \"the largest/smallest figure was recorded for\"."
+      },
+      {
+        "practice": "Category A had the biggest score on the chart, 90 points, and Category E had the smallest, 10 points.",
+        "answer": "The largest figure was recorded for Category A, at 90 points, while the smallest was recorded for Category E, at 10 points.",
+        "answerNote": "Та сама формула працює для будь-яких категорій, не лише країн."
+      }
+    ]
+  },
+  {
+    "formula": "X outnumbered Y",
+    "note": "Коли йдеться про кількість людей чи предметів (не про відсотки).",
+    "example": "Male employees outnumbered female employees by more than three to one.",
+    "exercises": [
+      {
+        "practice": "There were a lot more men working in construction than women, 890 compared to 240.",
+        "answer": "Men working in construction outnumbered women by more than three to one, at 890 compared to 240.",
+        "answerNote": "<b>\"a lot more... than\"</b> → <b>outnumbered</b>; додали точне співвідношення \"three to one\"."
+      },
+      {
+        "practice": "There were a lot more cars than bicycles on the road, 4,200 compared to 300.",
+        "answer": "Cars outnumbered bicycles on the road by a wide margin, at 4,200 compared to 300.",
+        "answerNote": "\"a wide margin\" — коли не хочеш рахувати точне співвідношення."
+      },
+      {
+        "practice": "Female applicants were fewer than male applicants for the engineering course, 60 versus 340.",
+        "answer": "Male applicants outnumbered female applicants for the engineering course by more than five to one, at 340 versus 60.",
+        "answerNote": "Менше число переставили в кінець, більше — підметом речення з \"outnumbered\"."
+      }
+    ]
+  },
+  {
+    "formula": "X was twice / three times as high as Y",
+    "note": "Коли можна порахувати точну кратність між двома стовпчиками.",
+    "example": "Spending on rent was three times as high as spending on utilities.",
+    "exercises": [
+      {
+        "practice": "The company spent much more on advertising than on training, $60,000 against $20,000.",
+        "answer": "The company's spending on advertising was three times as high as its spending on training, at $60,000 against $20,000.",
+        "answerNote": "Порахували кратність (60 000 ÷ 20 000 = 3) і виразили її прямо в реченні."
+      },
+      {
+        "practice": "The price of the deluxe room was twice the price of the standard room, $200 against $100.",
+        "answer": "The price of the deluxe room was twice as high as that of the standard room, at $200 against $100.",
+        "answerNote": "\"the price of the standard room\" → \"that of the standard room\" вдруге."
+      },
+      {
+        "practice": "Water usage in July was four times higher than in January, 500 litres compared to 125 litres.",
+        "answer": "Water usage in July was four times as high as in January, at 500 litres compared to 125 litres.",
+        "answerNote": "\"four times higher than\" → академічніше <b>four times as high as</b>."
+      }
+    ]
+  },
+  {
+    "formula": "There was a sharp contrast between X and Y in [category]",
+    "note": "Універсальний вислів для bar chart, коли категорій кілька.",
+    "example": "There was a sharp contrast between the two age groups in gym attendance.",
+    "exercises": [
+      {
+        "practice": "Younger and older respondents had very different answers about eating out, 65% versus 12%.",
+        "answer": "There was a sharp contrast between younger and older respondents in terms of eating out, at 65% versus 12%.",
+        "answerNote": "Додали \"in terms of\" — типова конструкція, щоб вказати, ЩО саме порівнюємо."
+      },
+      {
+        "practice": "City and rural dwellers had very different opinions about public transport, 70% satisfied versus 20%.",
+        "answer": "There was a sharp contrast between city and rural dwellers in terms of satisfaction with public transport, at 70% versus 20%.",
+        "answerNote": "Та сама структура, інша тема — формула не змінюється, змінюються лише категорії."
+      },
+      {
+        "practice": "Small and large companies had very different attitudes to remote work policies.",
+        "answer": "There was a sharp contrast between small and large companies in terms of their attitudes to remote work policies.",
+        "answerNote": "Працює і без конкретних цифр — просто для описової різниці."
+      }
+    ]
+  },
+  {
+    "formula": "X clearly stood out as the highest column, well ahead of Y",
+    "note": "Образний вислів — коли один стовпчик явно домінує над іншими.",
+    "example": "Housing clearly stood out as the highest expenditure category, well ahead of transport.",
+    "exercises": [
+      {
+        "practice": "Housing costs were much higher than any other cost, way more than food or transport.",
+        "answer": "Housing clearly stood out as the highest expenditure category, well ahead of both food and transport.",
+        "answerNote": "\"way more than\" звучить розмовно — замінили на формальне \"well ahead of\"."
+      },
+      {
+        "practice": "Football was much more popular than any other sport among the students surveyed.",
+        "answer": "Football clearly stood out as the most popular sport, well ahead of any other option.",
+        "answerNote": "Формула працює і для \"популярності\", не лише для грошей."
+      },
+      {
+        "practice": "Sales in the flagship store were much higher than in any of the other branches.",
+        "answer": "The flagship store clearly stood out with the highest sales, well ahead of all the other branches.",
+        "answerNote": "\"clearly stood out with\" — невеликий варіант формули для магазинів/філій."
+      }
+    ]
+  }
+]

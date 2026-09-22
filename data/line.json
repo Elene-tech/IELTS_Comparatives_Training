@@ -1,0 +1,134 @@
+[
+  {
+    "formula": "X rose steadily, while Y declined",
+    "note": "Для двох ліній, що рухаються у протилежних напрямках.",
+    "example": "Online sales rose steadily throughout the period, while high-street sales declined.",
+    "exercises": [
+      {
+        "practice": "Internet use kept going up between 2000 and 2020, but newspaper reading kept going down.",
+        "answer": "Internet use rose steadily between 2000 and 2020, while newspaper readership declined.",
+        "answerNote": "\"kept going up / down\" — розмовно; замінили на \"rose steadily\" / \"declined\"."
+      },
+      {
+        "practice": "The number of cinema visits went up gradually over the decade, but DVD rentals went down.",
+        "answer": "The number of cinema visits rose steadily over the decade, while DVD rentals declined.",
+        "answerNote": "\"went up gradually\" = \"rose steadily\" — синоніми, обирай залежно від контексту."
+      },
+      {
+        "practice": "Public library visits went up little by little each year, while bookshop visits kept falling.",
+        "answer": "Public library visits rose steadily each year, while bookshop visits declined.",
+        "answerNote": "\"little by little\" передає той самий сенс, що й \"steadily\"."
+      }
+    ]
+  },
+  {
+    "formula": "The gap between X and Y widened / narrowed over the period",
+    "note": "Показує, як змінювалась РІЗНИЦЯ між двома лініями з часом.",
+    "example": "The gap between male and female wages narrowed slightly over the decade.",
+    "exercises": [
+      {
+        "practice": "At first men and women earned very different amounts, but by the end the difference was much smaller.",
+        "answer": "The gap between male and female earnings narrowed considerably over the period.",
+        "answerNote": "Довге пояснення \"at first...by the end\" стиснули в одну чітку структуру про сам ГЕП."
+      },
+      {
+        "practice": "In 2000 city and rural incomes were close, but by 2020 the difference had grown much bigger.",
+        "answer": "The gap between city and rural incomes widened considerably between 2000 and 2020.",
+        "answerNote": "\"had grown much bigger\" → \"widened considerably\"."
+      },
+      {
+        "practice": "The difference between imports and exports got smaller and smaller across the period shown.",
+        "answer": "The gap between imports and exports narrowed steadily over the period shown.",
+        "answerNote": "\"got smaller and smaller\" → \"narrowed steadily\"."
+      }
+    ]
+  },
+  {
+    "formula": "X overtook / surpassed Y in [year]",
+    "note": "Для моменту, коли одна лінія перетинає й обганяє іншу.",
+    "example": "Solar energy overtook coal as the main power source in 2019.",
+    "exercises": [
+      {
+        "practice": "In 2015, electric car sales became higher than sales of diesel cars for the first time.",
+        "answer": "Electric car sales overtook diesel car sales for the first time in 2015.",
+        "answerNote": "\"became higher than... for the first time\" → одне дієслово <b>overtook</b>."
+      },
+      {
+        "practice": "In 2018, spending on streaming became higher than spending on cable TV for the first time.",
+        "answer": "Spending on streaming overtook spending on cable TV for the first time in 2018.",
+        "answerNote": "Та сама конструкція — тема інша, формула та сама."
+      },
+      {
+        "practice": "China's exports became bigger than the USA's exports in 2007.",
+        "answer": "China's exports surpassed those of the USA in 2007.",
+        "answerNote": "\"those of the USA\" = \"the USA's exports\", множина → those, не that."
+      }
+    ]
+  },
+  {
+    "formula": "X remained relatively stable, whereas Y fluctuated considerably",
+    "note": "Одна лінія рівна, друга — постійно вгору-вниз.",
+    "example": "Birth rates remained relatively stable, whereas immigration figures fluctuated considerably.",
+    "exercises": [
+      {
+        "practice": "Rainfall in the north didn't change much year to year, but in the south it went up and down a lot.",
+        "answer": "Rainfall in the north remained relatively stable, whereas figures in the south fluctuated considerably.",
+        "answerNote": "\"went up and down a lot\" → академічне <b>fluctuated considerably</b>."
+      },
+      {
+        "practice": "Prices for bread didn't really change over the five years, but prices for petrol went up and down a lot.",
+        "answer": "Prices for bread remained relatively stable over the five years, whereas petrol prices fluctuated considerably.",
+        "answerNote": "Та сама пара дієслів працює для будь-яких двох ліній графіка."
+      },
+      {
+        "practice": "Employment in agriculture stayed about the same, but employment in tech kept changing a lot year to year.",
+        "answer": "Employment in agriculture remained relatively stable, whereas employment in tech fluctuated considerably.",
+        "answerNote": "\"stayed about the same\" → \"remained relatively stable\"."
+      }
+    ]
+  },
+  {
+    "formula": "The rate of increase in X far outpaced that of Y",
+    "note": "Порівнюємо не самі числа, а ШВИДКІСТЬ зростання.",
+    "example": "The rate of increase in smartphone ownership far outpaced that of desktop computers.",
+    "exercises": [
+      {
+        "practice": "Streaming subscriptions grew a lot faster than cinema ticket sales over the same period.",
+        "answer": "The rate of growth in streaming subscriptions far outpaced that of cinema ticket sales.",
+        "answerNote": "\"grew a lot faster than\" → формальна структура зі словом <b>rate</b>, \"that of\" замінює повторення."
+      },
+      {
+        "practice": "Online grocery shopping grew a lot faster than in-store grocery shopping over the same five years.",
+        "answer": "The rate of growth in online grocery shopping far outpaced that of in-store shopping over the same five years.",
+        "answerNote": "Ця формула завжди про ШВИДКІСТЬ, а не про самі кінцеві цифри."
+      },
+      {
+        "practice": "Wind power capacity increased a lot quicker than nuclear power capacity between 2005 and 2020.",
+        "answer": "The rate of increase in wind power capacity far outpaced that of nuclear power between 2005 and 2020.",
+        "answerNote": "\"increased a lot quicker than\" → \"the rate of increase in... far outpaced that of\"."
+      }
+    ]
+  },
+  {
+    "formula": "X grew at a much faster rate than Y",
+    "note": "Простіша альтернатива попередній формулі — теж про швидкість зростання.",
+    "example": "The population of the suburbs grew at a much faster rate than that of the city centre.",
+    "exercises": [
+      {
+        "practice": "The number of app users increased a lot quicker than the number of website visitors.",
+        "answer": "The number of app users grew at a much faster rate than that of website visitors.",
+        "answerNote": "\"increased a lot quicker than\" → <b>grew at a much faster rate than</b>."
+      },
+      {
+        "practice": "The population of the coastal region increased a lot quicker than the population of the inland region.",
+        "answer": "The population of the coastal region grew at a much faster rate than that of the inland region.",
+        "answerNote": "Знову \"that of\" замінює повторення \"the population of\"."
+      },
+      {
+        "practice": "Membership at the new gym rose a lot faster than membership at the older branch.",
+        "answer": "Membership at the new gym grew at a much faster rate than that at the older branch.",
+        "answerNote": "\"that at\" — бо далі йде місце (the older branch), а не інший іменник."
+      }
+    ]
+  }
+]

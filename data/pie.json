@@ -1,0 +1,112 @@
+[
+  {
+    "formula": "X accounted for / made up / constituted the largest share",
+    "note": "Найчастіша фраза для найбільшого сектора кругової діаграми.",
+    "example": "Housing costs accounted for the largest share of the budget, at 38%.",
+    "exercises": [
+      {
+        "practice": "Transport was the biggest part of spending in the second chart, taking up 45%.",
+        "answer": "Transport accounted for the largest share of spending in the second chart, at 45%.",
+        "answerNote": "\"was the biggest part of, taking up\" → одне дієслово <b>accounted for</b>."
+      },
+      {
+        "practice": "Salaries were the biggest part of the company's costs, taking up 55% of the total.",
+        "answer": "Salaries accounted for the largest share of the company's costs, at 55% of the total.",
+        "answerNote": "Та сама формула — \"accounted for\" підходить майже до будь-якого pie chart."
+      },
+      {
+        "practice": "In the second chart, rent was the biggest expense, making up 40%.",
+        "answer": "In the second chart, rent constituted the largest share of expenses, at 40%.",
+        "answerNote": "\"constituted\" — трохи офіційніший синонім до \"accounted for\"."
+      }
+    ]
+  },
+  {
+    "formula": "X represented more than half of the total, dwarfing Y",
+    "note": "Коли один сектор — це більшість кола, а інший — крихітний.",
+    "example": "Renewable sources represented more than half of the total energy mix, dwarfing coal's 4% share.",
+    "exercises": [
+      {
+        "practice": "More than half of visitors came from Europe, and only a tiny number came from Africa, just 3%.",
+        "answer": "European visitors represented more than half of the total, dwarfing the mere 3% from Africa.",
+        "answerNote": "Об'єднали два окремих факти в одне речення через <b>dwarfing</b>."
+      },
+      {
+        "practice": "More than half of the app's users were under 25, and hardly any were over 60, just 2%.",
+        "answer": "Users under 25 represented more than half of the app's total user base, dwarfing the mere 2% aged over 60.",
+        "answerNote": "Та сама структура: більше число — головне речення, менше — після \"dwarfing\"."
+      },
+      {
+        "practice": "Beef made up over half of meat consumption, and lamb was almost nothing, only 3%.",
+        "answer": "Beef represented more than half of total meat consumption, dwarfing the negligible 3% share of lamb.",
+        "answerNote": "\"the negligible 3% share of\" — трохи довший варіант \"the mere 3%\"."
+      }
+    ]
+  },
+  {
+    "formula": "The share of X was [number] times that of Y",
+    "note": "Для точної кратності між двома секторами діаграми.",
+    "example": "The share of income spent on food was three times that of income spent on entertainment.",
+    "exercises": [
+      {
+        "practice": "The percentage of the budget for staff was much bigger than the percentage for equipment, 60% against 15%.",
+        "answer": "The share of the budget spent on staff was four times that of equipment, at 60% against 15%.",
+        "answerNote": "60 ÷ 15 = 4 — порахували точну кратність замість розмитого \"much bigger\"."
+      },
+      {
+        "practice": "The share of the market held by Brand A was much bigger than Brand C's share, 48% against 12%.",
+        "answer": "The share of the market held by Brand A was four times that of Brand C, at 48% against 12%.",
+        "answerNote": "48 ÷ 12 = 4 — та сама логіка, інша тема."
+      },
+      {
+        "practice": "The percentage of trips made by car was much higher than trips made by bike, 66% versus 11%.",
+        "answer": "The share of trips made by car was six times that of trips made by bike, at 66% versus 11%.",
+        "answerNote": "66 ÷ 11 = 6 — завжди рахуй точну кратність перед тим, як писати речення."
+      }
+    ]
+  },
+  {
+    "formula": "X and Y together made up the vast majority of the total",
+    "note": "Коли два сектори разом займають більшу частину кола.",
+    "example": "Coal and gas together made up the vast majority of electricity generation, at 71%.",
+    "exercises": [
+      {
+        "practice": "Cars and buses together were most of the transport used, making up 82% between them.",
+        "answer": "Cars and buses together made up the vast majority of transport used, at 82%.",
+        "answerNote": "\"were most of... making up\" → формальне <b>made up the vast majority of</b>."
+      },
+      {
+        "practice": "Fiction and non-fiction sales were most of total book sales, together making up 88%.",
+        "answer": "Fiction and non-fiction sales together made up the vast majority of total book sales, at 88%.",
+        "answerNote": "Та сама формула — просто переставили \"together\" перед дієсловом."
+      },
+      {
+        "practice": "China and India were most of the world's rice production shown in the chart, 78% combined.",
+        "answer": "China and India together made up the vast majority of the world's rice production shown, at 78%.",
+        "answerNote": "\"78% combined\" → просто \"at 78%\" у кінці речення."
+      }
+    ]
+  },
+  {
+    "formula": "Only a negligible slice belonged to Y",
+    "note": "Для найменшого, майже непомітного сектора діаграми.",
+    "example": "Only a negligible slice of the pie, just 1%, belonged to nuclear power.",
+    "exercises": [
+      {
+        "practice": "Just 2% of the total belonged to \"other sources\" in the chart.",
+        "answer": "Only a negligible slice of the total, just 2%, belonged to \"other sources\".",
+        "answerNote": "Додали формальне <b>only a negligible slice</b> замість голого \"just 2%\"."
+      },
+      {
+        "practice": "Just 1.5% of the pie chart belonged to \"unknown causes\".",
+        "answer": "Only a negligible slice of the chart, just 1.5%, belonged to \"unknown causes\".",
+        "answerNote": "Та сама структура — заміни лише категорію."
+      },
+      {
+        "practice": "Hardly any of the budget, only 0.8%, went to marketing.",
+        "answer": "Only a negligible slice of the budget, just 0.8%, went to marketing.",
+        "answerNote": "\"hardly any... only\" → \"only a negligible slice... just\"."
+      }
+    ]
+  }
+]

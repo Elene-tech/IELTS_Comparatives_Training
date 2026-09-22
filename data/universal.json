@@ -1,0 +1,156 @@
+[
+  {
+    "formula": "X was significantly / considerably higher than Y",
+    "note": "Базовий, безпечний вислів для помітної, але не екстремальної різниці.",
+    "example": "Spending on healthcare was significantly higher than spending on education, at $4.2bn against $1.1bn.",
+    "exercises": [
+      {
+        "practice": "Traffic accidents in the capital were a lot higher than in rural areas, at 340 compared to 60.",
+        "answer": "Traffic accidents in the capital were significantly higher than in rural areas, at 340 compared to 60.",
+        "answerNote": "Замінили розмовне <b>\"a lot higher\"</b> на академічне <b>\"significantly higher\"</b>."
+      },
+      {
+        "practice": "House prices in the capital were a lot higher than in the countryside, at £450,000 compared to £180,000.",
+        "answer": "House prices in the capital were considerably higher than in the countryside, at £450,000 compared to £180,000.",
+        "answerNote": "\"a lot higher than\" → <b>considerably higher than</b>."
+      },
+      {
+        "practice": "Internet speeds in cities were much faster than in rural areas, 120 Mbps versus 15 Mbps.",
+        "answer": "Internet speeds in cities were significantly faster than in rural areas, at 120 Mbps versus 15 Mbps.",
+        "answerNote": "Додали \"at\" перед цифрами — типова конструкція для чисел у Task 1."
+      }
+    ]
+  },
+  {
+    "formula": "X dwarfed Y / X was dwarfed by Y",
+    "note": "Для різкого, разючого контрасту — не для помірної різниці.",
+    "example": "£62 for the youngest, dwarfing the negligible £8 of the oldest.",
+    "exercises": [
+      {
+        "practice": "The budget for marketing was much bigger than the budget for research, at $500,000 versus $20,000.",
+        "answer": "The budget for marketing dwarfed that for research, at $500,000 versus a mere $20,000.",
+        "answerNote": "<b>\"much bigger than\"</b> → <b>dwarfed</b>; \"that for\" замінює повторення слова \"budget\"."
+      },
+      {
+        "practice": "Coffee shop sales were much higher than bookshop sales, at £2.1 million compared to £90,000.",
+        "answer": "Coffee shop sales dwarfed bookshop sales, at £2.1 million compared to a mere £90,000.",
+        "answerNote": "Додали <b>a mere</b> перед меншим числом, щоб підсилити контраст."
+      },
+      {
+        "practice": "The number of visitors to the beach was much smaller than the number of visitors to the museum, 200 versus 5,000.",
+        "answer": "The number of visitors to the beach was dwarfed by that to the museum, at 200 versus 5,000.",
+        "answerNote": "Менше число стоїть першим → пасив <b>was dwarfed by</b>; \"that to\" замінює повторення \"the number of visitors\"."
+      }
+    ]
+  },
+  {
+    "formula": "X far exceeded Y",
+    "note": "X перевищив Y — трохи спокійніше і менш образно, ніж dwarfed.",
+    "example": "Sales in December far exceeded sales in January, reaching 12,000 units against 3,000.",
+    "exercises": [
+      {
+        "practice": "Attendance at the concert was much higher than at the exhibition, with 8,000 visitors compared to 1,200.",
+        "answer": "Attendance at the concert far exceeded that at the exhibition, with 8,000 visitors compared to 1,200.",
+        "answerNote": "<b>\"much higher than\"</b> → <b>far exceeded</b>; \"that at\" замінює слово \"attendance\"."
+      },
+      {
+        "practice": "Rice production in Vietnam was much higher than production in Thailand, at 44 million tonnes compared to 20 million.",
+        "answer": "Rice production in Vietnam far exceeded that in Thailand, at 44 million tonnes compared to 20 million.",
+        "answerNote": "\"that in Thailand\" = \"production in Thailand\" — без повторення іменника."
+      },
+      {
+        "practice": "The company's profit last year was much bigger than the year before, $12 million versus $7 million.",
+        "answer": "The company's profit last year far exceeded that of the year before, at $12 million versus $7 million.",
+        "answerNote": "\"that of the year before\" замінює \"the company's profit... the year before\"."
+      }
+    ]
+  },
+  {
+    "formula": "X was almost double / triple / four times that of Y",
+    "note": "Коли можна порахувати точне співвідношення — у скільки разів більше.",
+    "example": "Car ownership in the city was almost triple that of the surrounding towns.",
+    "exercises": [
+      {
+        "practice": "The number of graduates in 2020 was about twice the number of graduates in 2010.",
+        "answer": "The number of graduates in 2020 was almost twice that of 2010.",
+        "answerNote": "Прибрали повторення \"the number of graduates\" → замінили на <b>that of</b>."
+      },
+      {
+        "practice": "Rainfall in April was about double the rainfall in March, 80mm compared to 40mm.",
+        "answer": "Rainfall in April was almost double that of March, at 80mm compared to 40mm.",
+        "answerNote": "\"the rainfall in March\" → просто <b>that of March</b>."
+      },
+      {
+        "practice": "Electricity consumption in summer was roughly three times the consumption in winter.",
+        "answer": "Electricity consumption in summer was almost three times that of winter.",
+        "answerNote": "Те саме правило: другий раз \"consumption\" не повторюємо."
+      }
+    ]
+  },
+  {
+    "formula": "There was a marked contrast between X and Y",
+    "note": "Хороший вступний вислів перед тим, як дати конкретні цифри.",
+    "example": "There was a marked contrast between male and female participation rates, at 78% and 22% respectively.",
+    "exercises": [
+      {
+        "practice": "Men and women had very different amounts of free time, 25 hours compared to 14 hours a week.",
+        "answer": "There was a marked contrast between the free time available to men and women, at 25 and 14 hours a week respectively.",
+        "answerNote": "Просте <b>\"very different\"</b> → офіційне <b>\"a marked contrast between\"</b>."
+      },
+      {
+        "practice": "Attitudes to remote work were very different between younger and older employees, 80% in favour versus 25%.",
+        "answer": "There was a marked contrast between younger and older employees in their attitudes to remote work, at 80% versus 25%.",
+        "answerNote": "Додали \"in their attitudes to\" — уточнює, ЩО саме контрастує."
+      },
+      {
+        "practice": "Reading habits changed a lot between 1990 and 2020, from mostly books to mostly screens.",
+        "answer": "There was a marked contrast between reading habits in 1990 and in 2020, shifting from books to screens.",
+        "answerNote": "\"changed a lot\" → \"a marked contrast between\", \"shifting from...to\" додає деталь."
+      }
+    ]
+  },
+  {
+    "formula": "X and Y were broadly similar / comparable",
+    "note": "Для НЕвеликої різниці — коли числа близькі, а не контрастні.",
+    "example": "Coffee and tea consumption were broadly similar, at 48% and 45% respectively.",
+    "exercises": [
+      {
+        "practice": "The number of male and female students was almost the same, 210 versus 205.",
+        "answer": "The numbers of male and female students were broadly comparable, at 210 and 205 respectively.",
+        "answerNote": "<b>\"almost the same\"</b> → <b>broadly comparable</b>; додали \"respectively\" для стилю."
+      },
+      {
+        "practice": "Spending on clothes and spending on entertainment were about the same, £45 and £42 a month.",
+        "answer": "Spending on clothes and entertainment was broadly similar, at £45 and £42 a month respectively.",
+        "answerNote": "\"about the same\" → \"broadly similar\" — стандартна академічна заміна."
+      },
+      {
+        "practice": "The two cities had almost equal populations, 1.2 million and 1.15 million.",
+        "answer": "The two cities had broadly comparable populations, at 1.2 million and 1.15 million respectively.",
+        "answerNote": "\"almost equal\" → \"broadly comparable\"."
+      }
+    ]
+  },
+  {
+    "formula": "Only a negligible / minimal proportion was recorded for Y",
+    "note": "Коли одне значення настільки мале, що майже не варте згадки.",
+    "example": "Only a negligible proportion of respondents, just 2%, chose to walk to work.",
+    "exercises": [
+      {
+        "practice": "Very few people, only 3%, used the bicycle to commute.",
+        "answer": "Only a negligible proportion of commuters, just 3%, used the bicycle.",
+        "answerNote": "<b>\"very few... only 3%\"</b> → формальніше <b>\"only a negligible proportion... just 3%\"</b>."
+      },
+      {
+        "practice": "Almost nobody chose the train, just 1% of commuters.",
+        "answer": "Only a negligible proportion of commuters, just 1%, chose the train.",
+        "answerNote": "\"almost nobody\" → \"only a negligible proportion\"."
+      },
+      {
+        "practice": "Hardly any respondents picked \"other\", only 0.5%.",
+        "answer": "Only a minimal proportion of respondents, just 0.5%, selected \"other\".",
+        "answerNote": "\"hardly any\" → \"only a minimal proportion\"."
+      }
+    ]
+  }
+]
