@@ -65,6 +65,15 @@
       label.className = 'ex-label';
       label.textContent = 'Речення ' + (i + 1);
 
+      block.appendChild(label);
+
+      if (ex.recommendedPhrase) {
+        var rec = document.createElement('div');
+        rec.className = 'rec-phrase';
+        rec.innerHTML = 'Рекомендована фраза: <b>' + ex.recommendedPhrase + '</b>';
+        block.appendChild(rec);
+      }
+
       var practice = document.createElement('p');
       practice.className = 'practice-text';
       practice.textContent = ex.practice;
@@ -95,7 +104,6 @@
       reveal.appendChild(answer);
       reveal.appendChild(answerNote);
 
-      block.appendChild(label);
       block.appendChild(practice);
       block.appendChild(input);
       block.appendChild(btn);

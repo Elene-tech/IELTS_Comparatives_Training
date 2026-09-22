@@ -3,5 +3,6 @@
   { "key": "bar",       "label": "Bar chart",     "color": "#C17E3B", "file": "bar.json" },
   { "key": "line",      "label": "Line graph",    "color": "#1A5C52", "file": "line.json" },
   { "key": "pie",       "label": "Pie chart",     "color": "#E8834A", "file": "pie.json" },
-  { "key": "table",     "label": "Table",         "color": "#B84C2A", "file": "table.json" }
+  { "key": "table",     "label": "Table",         "color": "#B84C2A", "file": "table.json" },
+  { "key": "percentages", "label": "Фрази замість цифр", "color": "#1A3A2D", "file": "percentages.json" }
 ]

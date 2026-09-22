@@ -1,0 +1,277 @@
+[
+  {
+    "formula": "85–99% → the vast majority",
+    "note": "Для дуже високих показників. Для 95%+ можна також «almost all» / «virtually all».",
+    "example": "The vast majority of participants said they felt motivated by exams. (85%)",
+    "exercises": [
+      {
+        "recommendedPhrase": "the vast majority",
+        "practice": "90% of employees said they were satisfied with remote work.",
+        "answer": "The vast majority of employees said they were satisfied with remote work. (90%)",
+        "answerNote": "Число прибираємо на початок речення і замінюємо фразою; сам відсоток можна лишити в дужках для контролю."
+      },
+      {
+        "recommendedPhrase": "the vast majority",
+        "practice": "Out of all the respondents surveyed, 88% reported that they exercise at least once a week.",
+        "answer": "Out of all the respondents surveyed, the vast majority reported that they exercise at least once a week. (88%)",
+        "answerNote": "Тут фраза стає не на початку, а всередині речення — після вставного звороту."
+      },
+      {
+        "recommendedPhrase": "the vast majority / only a handful",
+        "practice": "90% of students preferred online classes, while just 6% preferred in-person lessons.",
+        "answer": "The vast majority of students preferred online classes, whereas only a handful opted for in-person lessons. (90% vs 6%)",
+        "answerNote": "Поєднали дві фрази в одному порівняльному реченні через \"whereas\"."
+      }
+    ]
+  },
+  {
+    "formula": "75% → three quarters",
+    "note": "Точна дріб — вживай, коли число дуже близьке до 75%.",
+    "example": "Three quarters of students reported feeling anxious during exam week. (75%)",
+    "exercises": [
+      {
+        "recommendedPhrase": "three quarters",
+        "practice": "76% of the group said they prefer working from home.",
+        "answer": "Three quarters of the group said they prefer working from home. (76%)",
+        "answerNote": "76% округлюємо до найближчої «зручної» дробі — three quarters."
+      },
+      {
+        "recommendedPhrase": "three quarters",
+        "practice": "According to the survey, 74% of participants admitted they check their phone within five minutes of waking up.",
+        "answer": "According to the survey, three quarters of participants admitted they check their phone within five minutes of waking up. (74%)",
+        "answerNote": "Фраза стоїть після вступного звороту \"according to the survey\"."
+      },
+      {
+        "recommendedPhrase": "three quarters / just over a tenth",
+        "practice": "75% of teenagers said they use social media daily, compared to only 12% of people over 60.",
+        "answer": "Three quarters of teenagers said they use social media daily, compared to just over a tenth of those aged over 60. (75% vs 12%)",
+        "answerNote": "Обидві частини речення тепер фрази, а не цифри — природніше для Task 1."
+      }
+    ]
+  },
+  {
+    "formula": "66–69% → more than two thirds",
+    "note": "Трохи більше за 2/3 (66.7%) — more than two thirds / just over two thirds.",
+    "example": "68% said they studied more seriously before exams → More than two thirds said they studied more seriously before exams. (68%)",
+    "exercises": [
+      {
+        "recommendedPhrase": "more than two thirds",
+        "practice": "68% of the workforce said they would like more flexible hours.",
+        "answer": "More than two thirds of the workforce said they would like more flexible hours. (68%)",
+        "answerNote": "68% трохи вище за 66.7%, тому просто «two thirds» вже не точно — додаємо «more than»."
+      },
+      {
+        "recommendedPhrase": "more than two thirds",
+        "practice": "In the city surveyed, as many as 67% of residents reported using public transport at least once a week.",
+        "answer": "In the city surveyed, more than two thirds of residents reported using public transport at least once a week. (67%)",
+        "answerNote": "\"as many as\" — типовий вступ перед великим числом, фраза стає підметом одразу після нього."
+      },
+      {
+        "recommendedPhrase": "more than two thirds / a small minority",
+        "practice": "68% of respondents said exams motivated them, whereas only 15% said exams had no effect.",
+        "answer": "More than two thirds of respondents said exams motivated them, whereas only a small minority reported no effect. (68% vs 15%)",
+        "answerNote": "Поєднання двох фраз через \"whereas\" — стандартна конструкція для протиставлення."
+      }
+    ]
+  },
+  {
+    "formula": "51–59% → just over half / over half",
+    "note": "Трохи більше половини. Не плутай з «nearly half» (менше 50%).",
+    "example": "Over half of learners said exams helped them stay organised. (52%)",
+    "exercises": [
+      {
+        "recommendedPhrase": "just over half",
+        "practice": "53% of customers said they would recommend the product to a friend.",
+        "answer": "Just over half of customers said they would recommend the product to a friend. (53%)",
+        "answerNote": "\"just over half\" точніше за просте \"over half\", коли число близьке саме до 50%."
+      },
+      {
+        "recommendedPhrase": "just over half",
+        "practice": "When asked about their commute, 51% of employees admitted that they spend more than an hour travelling each way.",
+        "answer": "When asked about their commute, just over half of employees admitted that they spend more than an hour travelling each way. (51%)",
+        "answerNote": "Фраза органічно вписалась після підрядного звороту \"when asked about...\"."
+      },
+      {
+        "recommendedPhrase": "just over half / just under a third",
+        "practice": "52% of parents said they limit screen time, while 31% said they do not monitor it at all.",
+        "answer": "Just over half of parents said they limit screen time, while just under a third admitted they do not monitor it at all. (52% vs 31%)",
+        "answerNote": "Обидва відсотки замінили на фрази — рівень Band 7+ у Task 1."
+      }
+    ]
+  },
+  {
+    "formula": "44–49% → nearly half / just under half",
+    "note": "Трохи менше половини.",
+    "example": "Nearly half of people said they became more competitive. (46%)",
+    "exercises": [
+      {
+        "recommendedPhrase": "nearly half",
+        "practice": "47% of drivers admitted to using their phone while driving at least once.",
+        "answer": "Nearly half of drivers admitted to using their phone while driving at least once. (47%)",
+        "answerNote": "47% округлюємо в бік «half», але додаємо «nearly», бо не досягає 50%."
+      },
+      {
+        "recommendedPhrase": "nearly half",
+        "practice": "Of those surveyed about diet, 45% reported that they try to avoid sugar completely.",
+        "answer": "Of those surveyed about diet, nearly half reported that they try to avoid sugar completely. (45%)",
+        "answerNote": "\"of those surveyed about diet\" — типовий вступ, фраза йде відразу після коми."
+      },
+      {
+        "recommendedPhrase": "nearly half / roughly one in four",
+        "practice": "46% of respondents said they cook every day, whereas 24% said they rarely cook at all.",
+        "answer": "Nearly half of respondents said they cook every day, whereas roughly one in four said they rarely cook at all. (46% vs 24%)",
+        "answerNote": "\"roughly one in four\" — альтернативний спосіб сказати 25%, звучить природніше за \"a quarter\" у розмовному контексті."
+      }
+    ]
+  },
+  {
+    "formula": "35–42% → a significant proportion",
+    "note": "Помітна, але не більшість — коли немає зручного дробу для округлення.",
+    "example": "A significant proportion of people felt nervous before oral exams. (40%)",
+    "exercises": [
+      {
+        "recommendedPhrase": "a significant proportion",
+        "practice": "41% of small businesses said rising costs were their biggest concern.",
+        "answer": "A significant proportion of small businesses said rising costs were their biggest concern. (41%)",
+        "answerNote": "\"a significant proportion\" підходить для чисел приблизно 35–45%, коли немає зручного дробу."
+      },
+      {
+        "recommendedPhrase": "a significant proportion",
+        "practice": "Among the teenagers interviewed, 39% said they had never read a physical newspaper.",
+        "answer": "Among the teenagers interviewed, a significant proportion said they had never read a physical newspaper. (39%)",
+        "answerNote": "Фраза замінює число після вступного звороту \"among the teenagers interviewed\"."
+      },
+      {
+        "recommendedPhrase": "a significant proportion / the vast majority",
+        "practice": "40% of office workers said they wanted to work from home permanently, while 85% said they wanted at least some flexibility.",
+        "answer": "A significant proportion of office workers said they wanted to work from home permanently, while the vast majority wanted at least some flexibility. (40% vs 85%)",
+        "answerNote": "Дві різні фрази в одному реченні показують, що \"significant\" і \"vast majority\" відрізняються за силою."
+      }
+    ]
+  },
+  {
+    "formula": "29–32% → just under a third",
+    "note": "Трохи менше за третину (33.3%).",
+    "example": "Just under a third of respondents said they improved their focus. (31%)",
+    "exercises": [
+      {
+        "recommendedPhrase": "just under a third",
+        "practice": "32% of graduates said they moved to a different city for their first job.",
+        "answer": "Just under a third of graduates said they moved to a different city for their first job. (32%)",
+        "answerNote": "32% ближче до третини (33.3%), тому \"just under a third\" точніше за \"roughly a third\"."
+      },
+      {
+        "recommendedPhrase": "just under a third",
+        "practice": "In terms of transport choices, 30% of city residents reported cycling to work regularly.",
+        "answer": "In terms of transport choices, just under a third of city residents reported cycling to work regularly. (30%)",
+        "answerNote": "\"in terms of\" — типовий вступний зворот перед фразою-підметом."
+      },
+      {
+        "recommendedPhrase": "just under a third / over half",
+        "practice": "31% of participants said they save money regularly, whereas 52% said they rarely save at all.",
+        "answer": "Just under a third of participants said they save money regularly, whereas over half admitted they rarely save at all. (31% vs 52%)",
+        "answerNote": "Класична структура протиставлення двох фраз через \"whereas\"."
+      }
+    ]
+  },
+  {
+    "formula": "22–26% → roughly one in four / about a quarter",
+    "note": "Близько чверті.",
+    "example": "Roughly one in four students lost interest in studying. (24%)",
+    "exercises": [
+      {
+        "recommendedPhrase": "roughly one in four",
+        "practice": "25% of respondents said they had changed careers in the last five years.",
+        "answer": "Roughly one in four respondents said they had changed careers in the last five years. (25%)",
+        "answerNote": "\"one in four\" — розмовний, наочний спосіб сказати 25%, часто вживається в Task 1."
+      },
+      {
+        "recommendedPhrase": "roughly one in four",
+        "practice": "When it comes to diet, 23% of the group said they follow a vegetarian diet.",
+        "answer": "When it comes to diet, roughly one in four of the group said they follow a vegetarian diet. (23%)",
+        "answerNote": "Фраза працює і трохи нижче 25% — головне, щоб залишалась \"приблизно\"."
+      },
+      {
+        "recommendedPhrase": "roughly one in four / more than two thirds",
+        "practice": "24% of workers said they felt burnt out, while 68% said they felt generally satisfied with their job.",
+        "answer": "Roughly one in four workers said they felt burnt out, while more than two thirds reported feeling generally satisfied with their job. (24% vs 68%)",
+        "answerNote": "Дві фрази різного масштабу в одному реченні підкреслюють контраст сильніше, ніж голі цифри."
+      }
+    ]
+  },
+  {
+    "formula": "13–17% → a small minority",
+    "note": "Помітна, але невелика частина.",
+    "example": "A small minority of the class were excited about taking exams. (15%)",
+    "exercises": [
+      {
+        "recommendedPhrase": "a small minority",
+        "practice": "16% of shoppers said they always read reviews before buying online.",
+        "answer": "A small minority of shoppers said they always read reviews before buying online. (16%)",
+        "answerNote": "\"a small minority\" типово охоплює приблизно 10–20%."
+      },
+      {
+        "recommendedPhrase": "a small minority",
+        "practice": "Regarding travel habits, 14% of those surveyed said they had never left their home country.",
+        "answer": "Regarding travel habits, a small minority of those surveyed said they had never left their home country. (14%)",
+        "answerNote": "Фраза стоїть після вступного звороту \"regarding travel habits\"."
+      },
+      {
+        "recommendedPhrase": "a small minority / just over half",
+        "practice": "15% of employees said they dislike teamwork, compared to 52% who said they enjoy it.",
+        "answer": "A small minority of employees said they dislike teamwork, compared to just over half who said they enjoy it. (15% vs 52%)",
+        "answerNote": "\"compared to\" природно з'єднує дві фрази протилежного масштабу."
+      }
+    ]
+  },
+  {
+    "formula": "11–13% → just over a tenth / over one-tenth",
+    "note": "Трохи більше за десяту частину.",
+    "example": "Over one-tenth of the group said exams had no effect. (12%)",
+    "exercises": [
+      {
+        "recommendedPhrase": "just over a tenth",
+        "practice": "13% of tenants said they had disputed their rent increase.",
+        "answer": "Just over a tenth of tenants said they had disputed their rent increase. (13%)",
+        "answerNote": "\"just over a tenth\" — точніше за \"over one-tenth\", коли число майже точно 10%."
+      },
+      {
+        "recommendedPhrase": "just over a tenth",
+        "practice": "With regard to savings habits, 11% of respondents admitted they save nothing each month.",
+        "answer": "With regard to savings habits, just over a tenth of respondents admitted they save nothing each month. (11%)",
+        "answerNote": "Фраза замінює число після офіційного вступу \"with regard to\"."
+      },
+      {
+        "recommendedPhrase": "just over a tenth / the vast majority",
+        "practice": "12% of students said they never use a calculator, while 90% said they use one every day.",
+        "answer": "Just over a tenth of students said they never use a calculator, while the vast majority use one every day. (12% vs 90%)",
+        "answerNote": "Різкий контраст двох фраз показує різницю через слова, а не тільки цифри."
+      }
+    ]
+  },
+  {
+    "formula": "1–6% → only a few / hardly any",
+    "note": "Дуже мало.",
+    "example": "Only a few students enjoyed the pressure of exams. (5%)",
+    "exercises": [
+      {
+        "recommendedPhrase": "only a few",
+        "practice": "4% of participants said they never feel stressed at work.",
+        "answer": "Only a few participants said they never feel stressed at work. (4%)",
+        "answerNote": "\"only a few\" — найпростіший спосіб сказати \"дуже мало\" для чисел до 5–6%."
+      },
+      {
+        "recommendedPhrase": "only a few",
+        "practice": "In response to the question about diet, 6% of people said they eat fast food every day.",
+        "answer": "In response to the question about diet, only a few people said they eat fast food every day. (6%)",
+        "answerNote": "Фраза йде після вступного звороту \"in response to the question about...\"."
+      },
+      {
+        "recommendedPhrase": "only a few / the vast majority",
+        "practice": "5% of respondents said they dislike travelling, while 90% said they enjoy it a great deal.",
+        "answer": "Only a few respondents said they dislike travelling, whereas the vast majority said they enjoy it a great deal. (5% vs 90%)",
+        "answerNote": "Використали \"whereas\" замість \"while\" для більш формального стилю Task 1."
+      }
+    ]
+  }
+]
